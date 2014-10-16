@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "_default": {
+            "link": "test3"
+        }, 
+        "test3": {
+            "applicationId": "gNVO0THUH70Hn5rZhsNq1uR9QTzw0GBbjEo9ppVq", 
+            "masterKey": "e3zNJjxlnbJItMFCQk1YvYGYd2mErmtLq6aDzwV7"
+        }
+    }
+}
